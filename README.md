@@ -1,6 +1,6 @@
 # Ink Archer
 
-Arcade archery made in 2D style with many levels and puzzle elements.
+Arcade archery made in 2D style with many levels and puzzle elements
 
 Key Features:
 - destructible blocks, explosions, trampolines, magnets
